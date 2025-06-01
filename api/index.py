@@ -7,7 +7,7 @@ import os
 
 class GameInfo:
     def __init__(self):
-        self.TitleId: str = "1272F7"
+        self.TitleId: str = "569FD"
         self.SecretKey: str = "PD1EE4T77ZJMBYUKRO7TEKEQGY67T4QSZ5GIFBDM8GUXB9E9ZC"
         self.ApiKey: str = "OC|9335192016587258|32e707cbd11176580d78d8c89aa29e03"
         self.DiscordWebhook: str = ""
